@@ -1,0 +1,6 @@
+We have next logging message: 2023-09-23 00:57:11,055 : ERROR -Exception
+Traceback (most recent call last):
+  File "D:\PythonProjectStudent\Praktic\lab.py", line 9, in <module>
+    print(10/0)
+          ~~^~
+ZeroDivisionError: division by zero
